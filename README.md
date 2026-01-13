@@ -20,3 +20,9 @@ Screenshots of the application interface and GPA forecasting views are included 
 
 ## Project Status
 This is an active personal project focused on analytics logic, forecasting, and data handling.
+
+
+## Screenshots
+![Dashboard](screenshots/dashboard.png)
+![GPA Calculator](screenshots/gpa-calculator.png)
+![Planner & Boosters](screenshots/planner-boosters.png)
