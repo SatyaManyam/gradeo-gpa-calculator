@@ -23,6 +23,6 @@ This is an active personal project focused on analytics logic, forecasting, and 
 
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
-![GPA Calculator](screenshots/gpa-calculator.png)
-![Planner & Boosters](screenshots/planner-boosters.png)
+![Dashboard](screenshots/dashboard.jpg)
+![GPA Calculator](screenshots/gpa-calculator.jpg)
+![Planner & Boosters](screenshots/planner-boosters.jpg)
